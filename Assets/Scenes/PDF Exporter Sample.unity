@@ -422,8 +422,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fileName: example
-  filePath: C:\Users\user\Desktop\PDF Libs\
-  content: Hello from Unity!
+  filePath: C:\Users\user\Desktop\Models\
+  header: I am header
+  modelName: Model Name
+  modelImage: {fileID: 2800000, guid: d243f79ccace0c940aac8430dcd90a3f, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
